@@ -15,6 +15,7 @@
 
 **CI/CD & Automation**  
 Azure DevOps • GitHub Actions • GitLab
+
 **Cloud Platforms & IaC**  
 Azure • Terraform • Azure CLI • ARM Templates
 
