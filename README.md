@@ -6,7 +6,7 @@
 🌟 **Expertise**
 - **Cloud Infrastructure Automation**: Provisioning secure and scalable infrastructure using **Terraform**, **ARM templates**, and **Azure Resource Manager**.
 - **CI/CD Pipelines**: Automating end-to-end pipelines using **Azure DevOps**, **GitHub Actions**, and **Jenkins**.
-- **Containerization & Orchestration**: Building, deploying, and managing containerized applications using **Docker**, **Kubernetes (AKS)**, and **Helm**.
+- **Containerization & Orchestration**: Building, deploying, and managing containerized applications using **Docker**, **Kubernetes (AKS)**.
 - **Monitoring & Security**: Implementing monitoring with **Prometheus**, **Grafana**, and ensuring DevSecOps practices using tools like **Trivy** and **SonarQube**.
 
 ---
@@ -14,13 +14,12 @@
 🛠️ **DevOps Toolbelt**
 
 **CI/CD & Automation**  
-Azure DevOps • GitHub Actions • Jenkins • Shell Scripting
-
+Azure DevOps • GitHub Actions • GitLab
 **Cloud Platforms & IaC**  
 Azure • Terraform • Azure CLI • ARM Templates
 
 **Containerization & Orchestration**  
-Docker • Kubernetes (AKS) • Helm • Azure Container Apps
+Docker • Kubernetes • Azure Container Apps
 
 **Monitoring & Security**  
 Prometheus • Grafana • Trivy • SonarQube • Azure Monitor • Key Vault
@@ -31,8 +30,9 @@ Git • GitHub • Azure Repos
 ---
 
 🚀 **Projects**
+
 - 🌐 **Full DevOps Project Setup**  
-  React + .NET App | ACI + ACR | Azure Pipelines | Terraform | Monitoring  
+  React + .NET App | ACI + ACR | Azure Pipelines | Terraform  
   🔗 [Explore the project](#)
 
 - 🛡️ **Secure Infrastructure Deployment**  
